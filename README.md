@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K4risma
 - 👀 I’m interested in Gaming and Coding 
-- 🌱 I’m currently learning in unity 2D and looking forward for 3D
+- 🌱 I’m currently learning unity 2D and looking forward for 3D
 - 💞️ I’m looking to collaborate and learn more about coding
 - 📫 You can Reach me in Discord = k4risma
 
